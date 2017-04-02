@@ -1,4 +1,4 @@
-# ubench - micro-benchmarks for CPU Performance Profiling
+## ubench - Micro-benchmarks for CPU Performance Profiling
 
 * floatint - floating point and integer operations stressing the CPU
 
