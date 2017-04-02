@@ -1,4 +1,4 @@
-# Run script for Java ubench. 
+# Run script for C(native) ubench. 
 # 
 # Copyright (C) 2013 B. M. Tudor, D. Loghin
 #
